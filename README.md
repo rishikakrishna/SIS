@@ -1,1 +1,4 @@
-SIS @ UO -- http://pages.uoregon.edu/sis/
+## SIS @ UO ##
+
+Visit : http://pages.uoregon.edu/sis/
+ 
