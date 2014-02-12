@@ -146,7 +146,7 @@ h6 {
 }
 #page-team {
     padding: 75px 0;
-    background: #fff;
+    background: #f7f7f7;
 }
 #page-blog,
 #page-pricing {
@@ -484,7 +484,7 @@ ul#grid li.mix .overlay i {
     transition-duration: 0s;
 }
 .team-block {
-    background: #F7F7F7;
+    background: #fff;
     border-radius: 8px 8px 0 0;
     width: 100%;
     padding: 40px 0 0;
