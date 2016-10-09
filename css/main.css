@@ -492,7 +492,8 @@ ul#grid li.mix .overlay i {
 }
 .team-block .photo img {
     width: 165px;
-    height: 165px;
+    height: 165px; 
+    object-fit: cover;
     border-radius: 50%;
     margin: 0 auto;
     display: block;
@@ -544,7 +545,7 @@ ul#grid li.mix .overlay i {
     display: none;
 }
 .btn-round {
-    border-radius: 50%;
+    border-radius: 100%;
     width: 25px;
     height: 25px;
     display: inline-block;
